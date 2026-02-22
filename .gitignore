@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+
+data/
+outputs/
+.tmp_skill_init/
+.tmp_skill_init2/
+
+*.sqlite3
+*.db
+*.jsonl

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mutazili Fatawa"
+  short_description: "Draft neo-Mutazili fatawa from IslamQA scrapes"
+  default_prompt: "Use this skill to scrape IslamQA.org questions and draft Quran-centric neo-Mutazili responses with transparent reasoning and citations."
