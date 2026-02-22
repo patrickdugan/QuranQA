@@ -49,3 +49,4 @@ python scripts/generate_mutazili_fatawa.py --input D:\IslamQAScraping\islamqa_or
 
 - Use `references/neo-mutazili-rubric.md` for principle definitions and tuning points.
 - Use `references/position-fatawa-v1.md` for current doctrinal stance on sectarian ethics, lineage framing, and AI ethics.
+- Use `references/session-notes-2026-02-22.md` for the latest implementation and doctrine capture notes from this build session.
